@@ -10,6 +10,8 @@ For Android, it also uses OpenSSL from its upstream repository.
 If you want to build the library, scripts are provided for both platforms.
 Test projects are also provided for both iOS and Android.
 
-brew install autoconf automake
-git submodule init
-git submodule update
+``brew install autoconf automake``
+
+``git submodule init``
+
+``git submodule update``
